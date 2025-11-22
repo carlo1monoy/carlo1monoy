@@ -1,105 +1,164 @@
-<!-- ============================= -->
-<!-- 🚀 NEXT-LEVEL DEVELOPER README -->
-<!-- ============================= -->
+<!-- ====================================================== -->
+<!-- 🚀 MEGA README — ALL STYLES COMBINED IN ONE PROFILE -->
+<!-- Author: Anthony Charles S. Monoy -->
+<!-- ====================================================== -->
 
-<!-- 3D Gradient Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00E676&center=true&vCenter=true&width=650&lines=Carlo+Charles+Monoy;Flutter+Developer+%7C+ML+Explorer;Crafting+Modern+Tech+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=3000&color=00E676&center=true&vCenter=true&width=700&lines=Anthony+Charles+S.+Monoy;Flutter+Developer;Machine+Learning+Explorer;UI+Engineer;Welcome+to+my+MEGA+Profile+README" />
 </h1>
 
 <p align="center">
-  <b>Developer Portfolio & Modern Tech Explorer</b><br>
-  Blending <b>Flutter Engineering</b>, <b>Machine Learning</b>, and <b>Sleek UI Design</b> into intelligent, interactive experiences.
+  A developer crafting elegant, scalable, and intelligent digital experiences using <b>Flutter</b>, <b>Python</b>, <b>Machine Learning</b>, and <b>Modern UI Engineering</b>.
 </p>
 
 ---
 
+# 🎨 **GLOBAL BADGES**
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-00e676?style=for-the-badge)](https://github.com/carlo1monoy)  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-00e676?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/carlo1monoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Flutter](https://img.shields.io/badge/Flutter-0277BD?style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]()
+[![Flutter](https://img.shields.io/badge/Flutter-0277BD?style=for-the-badge&logo=flutter)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)]()
 
 </div>
 
 ---
 
-# ✨ **About Me**
-Hi! I'm **Carlo**, a developer obsessed with building smooth, intelligent, and beautifully crafted digital experiences.  
-I work with:
+# 🟣 **SECTION 1 — NEON CYBERPUNK EDITION**
 
-- 📱 **Flutter Mobile Engineering**  
-- 🤖 **Machine Learning & Data Pipelines**  
-- 🎨 **Modern UI/UX Design**  
-- 🧩 **Modular & Scalable Architectures**
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=BD00FF&center=true&vCenter=true&width=700&lines=NEON+CYBERPUNK+MODE" />
+</h2>
 
----
-
-# ⚡ **Tech Stack**
-
-### 🧰 Languages & Frameworks
 <div align="center">
-  
-| Flutter | Dart | Python | TensorFlow | Scikit-learn | Firebase | REST APIs |
-|--------|------|--------|------------|---------------|----------|-----------|
-| <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg"> | <img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg"> |
+
+<img src="https://img.shields.io/badge/CYBER-ONLINE-ff00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00e5ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODE-NIGHT-8c00ff?style=for-the-badge" />
+
+</div>
+
+### 🟣 About Me (Cyber Edition)
+A neon-powered developer merging **Flutter**, **ML**, and **glowing UI systems** into futuristic tech.
+
+### 🟣 Tech Stack
+<div align="center">
+
+| Flutter | Dart | Python | TensorFlow | Firebase |
+|--------|------|--------|------------|----------|
+| <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> | <img width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"> |
 
 </div>
 
 ---
 
-# 🏗️ **Highlighted Features**
+# ⚪ **SECTION 2 — MINIMALIST ULTRA-CLEAN EDITION**
 
-## 🎨 **UI / UX Design**
-- ✧ Clean, minimal, modern aesthetic  
-- ✧ Smooth transitions & micro-interactions  
-- ✧ Component-driven widgets for fast creation  
-- ✧ Adaptive responsive layouting  
+<h2 align="center">✨ Minimalist Mode</h2>
 
-## 📱 **Mobile Development (Flutter)**
-- Custom cards, animations, dashboard widgets  
-- State-management ready (Provider, Riverpod, Bloc)  
-- API-integrated data flows  
-- Deep Firebase integration  
+## About Me
+I build clean, efficient, and elegantly structured apps using **Flutter**, **Python**, and **ML**.
 
-## 🤖 **Machine Learning**
-- Classification models (coffee classifier, etc.)  
-- Pandas / NumPy / Scikit-learn pipelines  
-- TFLite conversion for mobile deployment  
-- Real data preprocessing & feature engineering  
-
-## 🎭 **Interactive Experiences**
-- Dynamic rendering & data-driven UI  
-- Config-based content & dashboards  
-- Experimental prototypes & demos  
-
-## 🔒 **Security & Performance**
-- Optimized app builds  
-- Secure `.env` variable handling  
-- Efficient ML pipelines  
-- Modular, scalable project structure  
+## Core Skills
+- Flutter UI engineering  
+- Firebase integration  
+- State management  
+- ML model workflows  
+- Clean architecture  
 
 ---
 
-# 🌐 **Featured Projects**
+# 🌑 **SECTION 3 — DARK MODE ONLY EDITION**
 
-### 🔹 **Flutter UI Components**
-Reusable modern UI widgets for Flutter apps.  
-➡️ Repo: *(coming soon)*  
+<h2 align="center" style="color:#00e676">🌑 DARK MODE ACTIVATED</h2>
 
-### 🔹 **Instant Coffee ML Classifier**
-ML-powered model trained with real-world data.  
-➡️ Repo: *(coming soon)*  
+<div align="center">
 
-### 🔹 **Interactive Dashboards**
-Flutter dashboards for ML visualizations & data experiences.  
-➡️ Repo: *(coming soon)*  
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&lines=Flutter+Developer;Machine+Learning+Practitioner;UI+Engineer;Dark+Mode+Enthusiast" />
+
+</div>
+
+## 🖤 Dark Mode Focus
+- High-contrast UI  
+- Smooth animations  
+- ML-powered features  
+- Secure architecture  
 
 ---
 
-# 📊 **GitHub Stats**
+# 🎞️ **SECTION 4 — GIF HERO BANNER EDITION**
+
+<h2 align="center">🎞️ Animated Banner Mode</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</div>
+
+<p align="center">
+<b>Anthony Charles S. Monoy</b><br>
+Flutter Developer • ML Practitioner • UI Engineer
+</p>
+
+---
+
+# 🟦 **SECTION 5 — PROJECT TILES GALLERY + SHOWCASE**
+
+<h2 align="center">🟦 Project Gallery</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+  
+### 📱 Flutter UI Components  
+<img src="https://i.imgur.com/7Y9jJZp.png" width="200"/><br>
+Reusable modern UI widgets  
+<br><br>
+<a href="#">🔗 View Project</a>
+
+</td>
+<td align="center" width="250">
+
+### 🤖 Coffee ML Classifier  
+<img src="https://i.imgur.com/1zk0f2D.png" width="200"/><br>
+ML model with TFLite support  
+<br><br>
+<a href="#">🔗 View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250">
+
+### 📊 Dashboards  
+<img src="https://i.imgur.com/ZHkdx6S.png" width="200"/><br>
+Data-driven UI & ML visualizations  
+<br><br>
+<a href="#">🔗 View Project</a>
+
+</td>
+
+<td align="center" width="250">
+
+### 🧪 Experiments  
+<img src="https://i.imgur.com/1Cs5g5D.png" width="200"/><br>
+Prototypes, models, UI tests  
+<br><br>
+<a href="#">🔗 View Project</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 **GLOBAL GITHUB STATS (All Themes)**
 
 <div align="center">
 
@@ -112,9 +171,8 @@ Flutter dashboards for ML visualizations & data experiences.
 
 ---
 
-# 🛠️ **Quick Setup**
+# 🛠 **Quick Setup**
 
-### Flutter Local Development
 ```bash
 git clone https://github.com/carlo1monoy/Flutter_Widget_UIComponents
 cd Flutter_Widget_UIComponents
