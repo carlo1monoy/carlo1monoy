@@ -56,8 +56,6 @@ A neon-powered developer merging **Flutter**, **ML**, and **glowing UI systems**
 
 
 
-<h2 align="center">✨ Minimalist Mode</h2>
-
 ## About Me
 I build clean, efficient, and elegantly structured apps using **Flutter**, **Python**, and **ML**.
 
