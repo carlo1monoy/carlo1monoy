@@ -13,7 +13,7 @@
 
 ---
 
-# 🎨 **GLOBAL BADGES**
+# 🎨 ** BADGES**
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-00e676?style=for-the-badge)]()
@@ -43,7 +43,7 @@
 
 A neon-powered developer merging **Flutter**, **ML**, and **glowing UI systems** into futuristic tech.
 
-### 🟣 Tech Stack
+
 <div align="center">
 
 | Flutter | Dart | Python | TensorFlow | Firebase |
@@ -68,7 +68,7 @@ I build clean, efficient, and elegantly structured apps using **Flutter**, **Pyt
 
 ---
 
-<h2 align="center" style="color:#00e676">🌑 DARK MODE ACTIVATED</h2>
+
 
 <div align="center">
 
@@ -76,11 +76,6 @@ I build clean, efficient, and elegantly structured apps using **Flutter**, **Pyt
 
 </div>
 
-## 🖤 Dark Mode Focus
-- High-contrast UI  
-- Smooth animations  
-- ML-powered features  
-- Secure architecture  
 
 ---
 
@@ -154,7 +149,7 @@ Prototypes, models, UI tests
 
 ---
 
-# 📊 **GLOBAL GITHUB STATS (All Themes)**
+# 📊 **GLOBAL GITHUB STATS**
 
 <div align="center">
 
