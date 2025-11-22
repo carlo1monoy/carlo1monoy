@@ -26,7 +26,7 @@
 
 ---
 
-# 🟣 **SECTION 1 — NEON CYBERPUNK EDITION**
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=BD00FF&center=true&vCenter=true&width=700&lines=NEON+CYBERPUNK+MODE" />
@@ -40,7 +40,7 @@
 
 </div>
 
-### 🟣 About Me (Cyber Edition)
+
 A neon-powered developer merging **Flutter**, **ML**, and **glowing UI systems** into futuristic tech.
 
 ### 🟣 Tech Stack
@@ -54,7 +54,7 @@ A neon-powered developer merging **Flutter**, **ML**, and **glowing UI systems**
 
 ---
 
-# ⚪ **SECTION 2 — MINIMALIST ULTRA-CLEAN EDITION**
+
 
 <h2 align="center">✨ Minimalist Mode</h2>
 
@@ -69,8 +69,6 @@ I build clean, efficient, and elegantly structured apps using **Flutter**, **Pyt
 - Clean architecture  
 
 ---
-
-# 🌑 **SECTION 3 — DARK MODE ONLY EDITION**
 
 <h2 align="center" style="color:#00e676">🌑 DARK MODE ACTIVATED</h2>
 
@@ -88,9 +86,9 @@ I build clean, efficient, and elegantly structured apps using **Flutter**, **Pyt
 
 ---
 
-# 🎞️ **SECTION 4 — GIF HERO BANNER EDITION**
 
-<h2 align="center">🎞️ Animated Banner Mode</h2>
+
+<h2 align="center">🎞️ Animated Banner </h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -103,7 +101,7 @@ Flutter Developer • ML Practitioner • UI Engineer
 
 ---
 
-# 🟦 **SECTION 5 — PROJECT TILES GALLERY + SHOWCASE**
+
 
 <h2 align="center">🟦 Project Gallery</h2>
 
