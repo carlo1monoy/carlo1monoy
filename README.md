@@ -13,7 +13,6 @@
 
 ---
 
-# 🎨 ** BADGES**
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-00e676?style=for-the-badge)]()
@@ -29,7 +28,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=BD00FF&center=true&vCenter=true&width=700&lines=NEON+CYBERPUNK+MODE" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=BD00FF&center=true&vCenter=true&width=700&lines=HI+THER" />
 </h2>
 
 <div align="center">
@@ -125,7 +124,7 @@ ML model with TFLite support
 <tr>
 <td align="center" width="250">
 
-### 📊 Dashboards  
+
 <img src="https://i.imgur.com/ZHkdx6S.png" width="200"/><br>
 Data-driven UI & ML visualizations  
 <br><br>
@@ -149,7 +148,6 @@ Prototypes, models, UI tests
 
 ---
 
-# 📊 **GLOBAL GITHUB STATS**
 
 <div align="center">
 
