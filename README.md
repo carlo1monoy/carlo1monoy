@@ -95,75 +95,69 @@ Flutter Developer • ML Practitioner • UI Engineer
 
 
 
-<h2 align="center">🟦 Project Gallery</h2>
+## 🟦 Project Gallery
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="250">
-  
-### 📱 Flutter UI Components  
-<img src="https://i.imgur.com/7Y9jJZp.png" width="200"/><br>
-Reusable modern UI widgets  
-<br><br>
+### 📱 Flutter UI Components
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/7Y9jJZp.png" width="200"/>
+<p>Reusable modern UI widgets</p>
 <a href="#">🔗 View Project</a>
-
-</td>
-<td align="center" width="250">
-
-### 🤖 Coffee ML Classifier  
-<img src="https://i.imgur.com/1zk0f2D.png" width="200"/><br>
-ML model with TFLite support  
-<br><br>
-<a href="#">🔗 View Project</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="250">
-
-
-<img src="https://i.imgur.com/ZHkdx6S.png" width="200"/><br>
-Data-driven UI & ML visualizations  
-<br><br>
-<a href="#">🔗 View Project</a>
-
-</td>
-
-<td align="center" width="250">
-
-### 🧪 Experiments  
-<img src="https://i.imgur.com/1Cs5g5D.png" width="200"/><br>
-Prototypes, models, UI tests  
-<br><br>
-<a href="#">🔗 View Project</a>
-
-</td>
-</tr>
-</table>
-
 </div>
 
----
+### 🤖 Coffee ML Classifier
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/1zk0f2D.png" width="200"/>
+<p>ML model with TFLite support</p>
+<a href="#">🔗 View Project</a>
+</div>
 
+### 📊 Data-driven UI & ML Visualization
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/ZHkdx6S.png" width="200"/>
+<p>Data-driven UI & ML visualizations</p>
+<a href="#">🔗 View Project</a>
+</div>
+
+### 🧪 Experiments
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/1Cs5g5D.png" width="200"/>
+<p>Prototypes, models, UI tests</p>
+<a href="#">🔗 View Project</a>
+</div>
+
+</div>
+## 🟦 Project Gallery
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=carlo1monoy&show_icons=true&theme=radical" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=carlo1monoy&theme=radical" />
-<br/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlo1monoy&layout=compact&theme=radical" />
-
+### 📱 Flutter UI Components
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/7Y9jJZp.png" width="200"/>
+<p>Reusable modern UI widgets</p>
+<a href="#">🔗 View Project</a>
 </div>
 
----
+### 🤖 Coffee ML Classifier
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/1zk0f2D.png" width="200"/>
+<p>ML model with TFLite support</p>
+<a href="#">🔗 View Project</a>
+</div>
 
-# 🛠 **Quick Setup**
+### 📊 Data-driven UI & ML Visualization
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/ZHkdx6S.png" width="200"/>
+<p>Data-driven UI & ML visualizations</p>
+<a href="#">🔗 View Project</a>
+</div>
 
-```bash
-git clone https://github.com/carlo1monoy/Flutter_Widget_UIComponents
-cd Flutter_Widget_UIComponents
-flutter pub get
-flutter run
+### 🧪 Experiments
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 230px; display: inline-block; margin: 10px;">
+<img src="https://i.imgur.com/1Cs5g5D.png" width="200"/>
+<p>Prototypes, models, UI tests</p>
+<a href="#">🔗 View Project</a>
+</div>
+
+</div>
