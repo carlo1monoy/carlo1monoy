@@ -99,51 +99,32 @@ Flutter Developer • ML Practitioner • UI Engineer
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="250">
-
-### 📱 Flutter UI Components  
-<img src="https://user-images.githubusercontent.com/91504459/224491638-e7e6e9ae-b0dd-492a-8cc7-2d32a95df833.png" width="200"/><br>
-Reusable modern UI widgets  
+## 📱 Flutter UI Components  
+🧩 Reusable modern UI widgets  
 <br>
 <a href="#">🔗 View Project</a>
 
-</td>
+---
 
-<td align="center" width="250">
-
-### 🤖 Coffee ML Classifier  
-<img src="https://user-images.githubusercontent.com/91504459/224491754-c1d9d67b-6c79-4a3f-a74b-684a1dc06979.png" width="200"/><br>
-ML model with TFLite support  
+## 🤖 Coffee ML Classifier  
+☕ ML model built with TensorFlow Lite  
 <br>
 <a href="#">🔗 View Project</a>
 
-</td>
-</tr>
+---
 
-<tr>
-<td align="center" width="250">
-
-### 📊 Data-driven UI & ML Visualization  
-<img src="https://user-images.githubusercontent.com/91504459/224491963-ca7992a2-ea76-47c0-a975-6e14e3b3f31b.png" width="200"/><br>
-Data-driven UI & ML visualizations  
+## 📊 Data-Driven UI & ML Visualization  
+📈 Intelligent dashboards, charts, and analytics  
 <br>
 <a href="#">🔗 View Project</a>
 
-</td>
+---
 
-<td align="center" width="250">
-
-### 🧪 Experiments  
-<img src="https://user-images.githubusercontent.com/91504459/224492097-b0273eb0-ec62-4a3d-b4c7-86b44f4976de.png" width="200"/><br>
-Prototypes, models, UI tests  
+## 🧪 Experiments  
+🧬 Prototypes, testing pipelines, model iteration  
 <br>
 <a href="#">🔗 View Project</a>
-
-</td>
-</tr>
-</table>
 
 </div>
+
 
