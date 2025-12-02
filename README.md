@@ -104,7 +104,7 @@ Flutter Developer • ML Practitioner • UI Engineer
 <td align="center" width="250">
 
 ### 📱 Flutter UI Components  
-<img src="https://i.imgur.com/7Y9jJZp.png" width="200"/><br>
+<img src="https://user-images.githubusercontent.com/91504459/224491638-e7e6e9ae-b0dd-492a-8cc7-2d32a95df833.png" width="200"/><br>
 Reusable modern UI widgets  
 <br>
 <a href="#">🔗 View Project</a>
@@ -114,7 +114,7 @@ Reusable modern UI widgets
 <td align="center" width="250">
 
 ### 🤖 Coffee ML Classifier  
-<img src="https://i.imgur.com/1zk0f2D.png" width="200"/><br>
+<img src="https://user-images.githubusercontent.com/91504459/224491754-c1d9d67b-6c79-4a3f-a74b-684a1dc06979.png" width="200"/><br>
 ML model with TFLite support  
 <br>
 <a href="#">🔗 View Project</a>
@@ -126,7 +126,7 @@ ML model with TFLite support
 <td align="center" width="250">
 
 ### 📊 Data-driven UI & ML Visualization  
-<img src="https://i.imgur.com/ZHkdx6S.png" width="200"/><br>
+<img src="https://user-images.githubusercontent.com/91504459/224491963-ca7992a2-ea76-47c0-a975-6e14e3b3f31b.png" width="200"/><br>
 Data-driven UI & ML visualizations  
 <br>
 <a href="#">🔗 View Project</a>
@@ -136,7 +136,7 @@ Data-driven UI & ML visualizations
 <td align="center" width="250">
 
 ### 🧪 Experiments  
-<img src="https://i.imgur.com/1Cs5g5D.png" width="200"/><br>
+<img src="https://user-images.githubusercontent.com/91504459/224492097-b0273eb0-ec62-4a3d-b4c7-86b44f4976de.png" width="200"/><br>
 Prototypes, models, UI tests  
 <br>
 <a href="#">🔗 View Project</a>
@@ -146,3 +146,4 @@ Prototypes, models, UI tests
 </table>
 
 </div>
+
