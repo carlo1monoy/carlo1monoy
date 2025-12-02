@@ -95,14 +95,14 @@ Flutter Developer • ML Practitioner • UI Engineer
 
 
 
-## 🟦 Project Gallery (GIF Preview)
+## 🟦 Project Gallery (Coding GIFs)
 
 <div align="center">
 
 ---
 
 ### 📱 Flutter UI Components  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmEweWIzNmw1NDRvbG50azc0OGM3MzNkN2o3a2ZvMGJkY3RiOGw0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xIO33l7RlmLR4I/giphy.gif" width="260"><br>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"><br>
 🧩 Reusable modern UI widgets  
 <br>
 <a href="#">🔗 View Project</a>
@@ -110,23 +110,23 @@ Flutter Developer • ML Practitioner • UI Engineer
 ---
 
 ### 🤖 Coffee ML Classifier  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZtdGJ0cTQwbGRwd2VwcGNtdXZxdzByZzdzNTNhcjhkdXQ0ajlqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2K5jinAlChoCLS/giphy.gif" width="260"><br>
-☕ ML Model with TensorFlow Lite  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"><br>
+☕ ML model using TensorFlow Lite  
 <br>
 <a href="#">🔗 View Project</a>
 
 ---
 
-### 📊 Data-Driven UI & ML Visualization  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ0a2p3YjhueHc5YXlmdTJrZWN3dDhjcTh0cWF1Y3ltcG0ybWQ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="260"><br>
-📈 Dashboards, charts, analytics  
+### 📊 Data-driven UI & ML Visualization  
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="260"><br>
+📈 Dashboards, charts, and ML analytics  
 <br>
 <a href="#">🔗 View Project</a>
 
 ---
 
 ### 🧪 Experiments  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1uYnU1bmkzYTZxdzY2anZ0aTN4bml3emllYWh6aHR1dWttMGNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHFRbmaZtBRhXG/giphy.gif" width="260"><br>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"><br>
 🧬 Prototypes • Tests • Pipelines  
 <br>
 <a href="#">🔗 View Project</a>
@@ -134,5 +134,3 @@ Flutter Developer • ML Practitioner • UI Engineer
 ---
 
 </div>
-
-
