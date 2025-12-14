@@ -101,7 +101,7 @@ Flutter Developer • ML Practitioner • UI Engineer
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"><br>
 InstantCoffee_Classification  
 <br>
-<a href="[carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject](https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject.git)">🔗 View Project</a>
+<a href="https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject">🔗 View Project</a>
 
 ---
 
