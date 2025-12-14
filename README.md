@@ -28,8 +28,9 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=BD00FF&center=true&vCenter=true&width=700&lines=HI+THER" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=BD00FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+a+BSIT+Student;From+Caraga+State+University;Aspiring+Software+Developer;Always+Learning+New+Technologies" />
 </h2>
+
 
 <div align="center">
 
@@ -103,25 +104,19 @@ InstantCoffee_Classification
 <br>
 <a href="https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject">🔗 View Project</a>
 
----
-
-### 🤖 Coffee ML Classifier  
+---  
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"><br>
 Flutter_Widget_UIComponents
 <br>
-<a href="carlo1monoy/Flutter_Widget_UIComponents">🔗 View Project</a>
+<a href="https://github.com/carlo1monoy/Flutter_Widget_UIComponents">🔗 View Project</a>
 
----
-
-### 📊 Data-driven UI & ML Visualization  
+--- 
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="260"><br>
   IT120-Activity
 <br>
-<a href="carlo1monoy/IT120-Activity1">🔗 View Project</a>
+<a href="https://github.com/carlo1monoy/IT120-Activity1">🔗 View Project</a>
 
----
-
-### 🧪 Experiments  
+--- 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"><br>
   Project  
 <br>
