@@ -40,8 +40,6 @@
 </div>
 
 
-A neon-powered developer merging **Flutter**, **ML**, and **glowing UI systems** into futuristic tech.
-
 
 <div align="center">
 
@@ -56,8 +54,7 @@ A neon-powered developer merging **Flutter**, **ML**, and **glowing UI systems**
 
 
 ## About Me
-I build clean, efficient, and elegantly structured apps using **Flutter**, **Python**, and **ML**.
-
+I am a third-year Bachelor of Science in Information Technology (BSIT) student at Caraga State University–Cabadbaran Campus in Cabadbaran City. I am passionate about learning and applying modern technologies, with a growing interest in software development and problem-solving. Through academic projects and continuous practice, I strive to improve my technical skills and contribute to meaningful and well-structured solutions.
 ## Core Skills
 - Flutter UI engineering  
 - Firebase integration  
@@ -80,7 +77,7 @@ I build clean, efficient, and elegantly structured apps using **Flutter**, **Pyt
 
 
 
-<h2 align="center">🎞️ Animated Banner </h2>
+<h2 align="center"></h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -103,33 +100,33 @@ Flutter Developer • ML Practitioner • UI Engineer
 
 ### 📱 Flutter UI Components  
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"><br>
-🧩 Reusable modern UI widgets  
+InstantCoffee_Classification  
 <br>
-<a href="#">🔗 View Project</a>
+<a href="carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject">🔗 View Project</a>
 
 ---
 
 ### 🤖 Coffee ML Classifier  
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"><br>
-☕ ML model using TensorFlow Lite  
+Flutter_Widget_UIComponents
 <br>
-<a href="#">🔗 View Project</a>
+<a href="carlo1monoy/Flutter_Widget_UIComponents">🔗 View Project</a>
 
 ---
 
 ### 📊 Data-driven UI & ML Visualization  
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="260"><br>
-📈 Dashboards, charts, and ML analytics  
+  IT120-Activity
 <br>
-<a href="#">🔗 View Project</a>
+<a href="carlo1monoy/IT120-Activity1">🔗 View Project</a>
 
 ---
 
 ### 🧪 Experiments  
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"><br>
-🧬 Prototypes • Tests • Pipelines  
+  Project  
 <br>
-<a href="#">🔗 View Project</a>
+<a href="carlo1monoy/carlo1monoy">🔗 View Project</a>
 
 ---
 
