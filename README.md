@@ -20,7 +20,7 @@
 
 CaffioLens is an intelligent mobile application that uses **TensorFlow Lite AI** to identify coffee packs through your smartphone camera. Built with **Flutter** for seamless cross-platform performance and integrated with **Firebase** for real-time cloud synchronization.
 
-> 🎯 **94%+ accuracy** in coffee pack classification  
+> 🎯 **98%+ accuracy** in coffee pack classification  
 > ⚡ **Under 2 seconds** processing time  
 > ☁️ **Cloud-synced** scan history
 
