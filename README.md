@@ -225,7 +225,7 @@ dependencies:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/caffiolens.git
+git clone https://github.com/carlo1monoy/Full_project_code
 cd caffiolens
 
 # 2. Install dependencies
