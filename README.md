@@ -94,8 +94,8 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 
 | 🏠 Home | 📷 Scanner | 🖼️ Gallery | ✅ Results | 📜 History |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="150"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="150"> | <img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="150"> | <img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="150"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="150"> |
-| Real-time stats & activity | Live preview & instant capture | Pick from device library | AI accuracy & details | Cloud-synced scan log |
+| <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="150"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="150"> | <img src="https://github.com/user-attachments/assets/fc1d56b0-7b32-4209-8524-cfb4c2cd1995" width="150"> | <img src="https://github.com/user-attachments/assets/27d44ba5-8ba7-4011-bd57-1fffa8cafe6b" width="150"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="150"> |
+| Real-time stats & activity | Live preview & instant capture | Pick from device library | AI accuracy & graph | Cloud-synced scan log |
 
 </div>
 
@@ -136,13 +136,13 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="250">
+<img src="https://github.com/user-attachments/assets/fc1d56b0-7b32-4209-8524-cfb4c2cd1995" width="250">
 
 **Key Functions:**
 - 📁 Access device photo library
 - 🔍 Analyze previously captured coffee packs
-- 🤖 Same AI accuracy as live scanning
-- ⚡ Quick processing of stationary images
+- 🤖 High-accuracy recognition of saved images
+- ⚡ Quick processing of stationary samples
 
 </details>
 
@@ -151,12 +151,19 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="250">
+<br>
+
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/27d44ba5-8ba7-4011-bd57-1fffa8cafe6b" width="200"><br><p align="center"><b>Probability Graph</b></p></td>
+<td><img src="https://github.com/user-attachments/assets/d1f87351-35c4-464d-94d6-3d5a283c48c6" width="200"><br><p align="center"><b>Detailed Predictions</b></p></td>
+</tr>
+</table>
 
 **Key Functions:**
-- 🎯 AI-powered coffee type identification
+- 📊 **Probability Visualization** - Interactive graph showing identification results
+- 🎯 **All Predictions List** - Complete breakdown of AI scores for all categories
 - 📈 Confidence score percentage (0-100%)
-- 🕒 Timestamp of scan
 - 💾 Automatic save to Firebase
 - 🔄 Quick "Scan Again" action
 
