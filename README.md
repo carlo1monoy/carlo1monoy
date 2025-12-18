@@ -16,11 +16,42 @@
 
 <br>
 
+<div align="center">
+
+### Anthony Charles S. Monoy
+**IT Student | Caraga State University Cabadbaran Campus (CSUCC)**
+
+I am an aspiring IT professional currently studying at Caraga State University, focused on mobile development and AI integration. Passionate about building intelligent solutions that solve real-world problems.
+
+<br>
+
+### 🛠️ Skills
+
+| Category | Technologies |
+|:---:|:---|
+| **Mobile Dev** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+<br>
+
+📧 **Contact**: [anthonycharles.monoy@csucc.edu.ph](mailto:anthonycharles.monoy@csucc.edu.ph)  
+🎓 **Project**: ITE120 Final Project  
+
+<br>
+
+---
+
+</div>
+
+<br>
+
 ## 📖 About
 
 CaffioLens is an intelligent mobile application that uses **TensorFlow Lite AI** to identify coffee packs through your smartphone camera. Built with **Flutter** for seamless cross-platform performance and integrated with **Firebase** for real-time cloud synchronization.
 
-> 🎯 **98%+ accuracy** in coffee pack classification  
+> 🎯 **94%+ accuracy** in coffee pack classification  
 > ⚡ **Under 2 seconds** processing time  
 > ☁️ **Cloud-synced** scan history
 
@@ -225,7 +256,7 @@ dependencies:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/carlo1monoy/Full_project_code
+git clone https://github.com/yourusername/caffiolens.git
 cd caffiolens
 
 # 2. Install dependencies
@@ -302,7 +333,7 @@ graph LR
 - **Language:** Dart
 - **Framework:** Flutter
 - **ML Model:** TensorFlow Lite
-- **Accuracy:** 98%+
+- **Accuracy:** 94%+
 - **Processing Time:** < 2 seconds
 - **Platform Support:** Android, iOS
 
@@ -314,19 +345,8 @@ This project is licensed under the **MIT License**.
 
 <br>
 
-## 👨‍💻 Author
 
 <div align="center">
-
-**Anthony Charles Monoy**
-
-📧 anthonycharles.monoy@csucc.edu.ph  
-🎓 ITE120 Final Project  
-🏫 CSUCC
-
-<br>
-
----
 
 <sub>Made with ❤️ and ☕ using Flutter</sub>
 
