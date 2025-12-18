@@ -302,7 +302,7 @@ graph LR
 - **Language:** Dart
 - **Framework:** Flutter
 - **ML Model:** TensorFlow Lite
-- **Accuracy:** 94%+
+- **Accuracy:** 98%+
 - **Processing Time:** < 2 seconds
 - **Platform Support:** Android, iOS
 
