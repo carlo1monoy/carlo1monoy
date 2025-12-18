@@ -92,10 +92,10 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 
 <div align="center">
 
-| 🏠 Home | 📷 Scanner | 🖼️ Gallery | ✅ Results | 📜 History |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="150"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="150"> | <img src="https://github.com/user-attachments/assets/fc1d56b0-7b32-4209-8524-cfb4c2cd1995" width="150"> | <img src="https://github.com/user-attachments/assets/27d44ba5-8ba7-4011-bd57-1fffa8cafe6b" width="150"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="150"> |
-| Real-time stats & activity | Live preview & instant capture | Pick from device library | AI accuracy & graph | Cloud-synced scan log |
+| 🏠 Home | 📷 Scanner | 🖼️ Gallery | ✅ Results | 🎯 Predictions | 📜 History |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="130"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="130"> | <img src="https://github.com/user-attachments/assets/fc1d56b0-7b32-4209-8524-cfb4c2cd1995" width="130"> | <img src="https://github.com/user-attachments/assets/27d44ba5-8ba7-4011-bd57-1fffa8cafe6b" width="130"> | <img src="https://github.com/user-attachments/assets/d1f87351-35c4-464d-94d6-3d5a283c48c6" width="130"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="130"> |
+| Real-time stats & activity | Live preview & instant capture | Pick from device library | AI accuracy & graph | Probability ranking | Cloud-synced scan log |
 
 </div>
 
@@ -126,7 +126,7 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 **Key Functions:**
 - 📸 Live camera viewfinder with auto-focus
 - 🎯 One-tap capture button
-- � Instant processing for identified items
+- 🔄 Instant processing for identified items
 - 🧭 Persistent bottom navigation
 
 </details>
@@ -147,20 +147,18 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 </details>
 
 <details>
-<summary><b>✅ Scan Results</b></summary>
-
-<br>
+<summary><b>✅ Scan Results & Predictions</b></summary>
 
 <br>
 
 <table>
 <tr>
 <td align="center"><img src="https://github.com/user-attachments/assets/27d44ba5-8ba7-4011-bd57-1fffa8cafe6b" width="200"><br><b>Probability Graph</b></td>
-<td align="center"><img src="https://github.com/user-attachments/assets/d1f87351-35c4-464d-94d6-3d5a283c48c6" width="200"><br><b>Connected Prediction Details</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/d1f87351-35c4-464d-94d6-3d5a283c48c6" width="200"><br><b>Detailed Predictions</b></td>
 </tr>
 </table>
 
-*Note: The detailed predictions list is directly connected to the scan example and probability graph above.*
+**and this is connected to the scan example and graph**
 
 **Key Functions:**
 - 📊 **Probability Visualization** - Interactive graph showing identification results
