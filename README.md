@@ -1,72 +1,3 @@
-<!-- ====================================================== -->
-<!-- 🚀 MEGA README — ALL STYLES COMBINED IN ONE PROFILE -->
-<!-- Author: Anthony Charles S. Monoy -->
-<!-- ====================================================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=3000&color=00E676&center=true&vCenter=true&width=700&lines=Anthony+Charles+S.+Monoy;Flutter+Developer;Machine+Learning+Explorer;UI+Engineer;Welcome+to+my+MEGA+Profile+README" />
-</h1>
-
-<p align="center">
-  A developer crafting elegant, scalable, and intelligent digital experiences using <b>Flutter</b>, <b>Python</b>, <b>Machine Learning</b>, and <b>Modern UI Engineering</b>.
-</p>
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-00e676?style=for-the-badge)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/carlo1monoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]()
-[![Flutter](https://img.shields.io/badge/Flutter-0277BD?style=for-the-badge&logo=flutter)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)]()
-
-</div>
-
----
-
-
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=BD00FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+a+BSIT+Student;From+Caraga+State+University;Aspiring+Software+Developer;Always+Learning+New+Technologies" />
-</h2>
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CYBER-ONLINE-ff00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00e5ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MODE-NIGHT-8c00ff?style=for-the-badge" />
-
-</div>
-
-
-
-<div align="center">
-
-| Flutter | Dart | Python | TensorFlow | Firebase |
-|--------|------|--------|------------|----------|
-| <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> | <img width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"> |
-
-</div>
-
----
-
-
-
-## About Me
-I am a third-year Bachelor of Science in Information Technology (BSIT) student at Caraga State University–Cabadbaran Campus in Cabadbaran City. I am passionate about learning and applying modern technologies, with a growing interest in software development and problem-solving. Through academic projects and continuous practice, I strive to improve my technical skills and contribute to meaningful and well-structured solutions.
-## Core Skills
-- Flutter UI engineering  
-- Firebase integration  
-- State management  
-- ML model workflows  
-- Clean architecture  
-
----
-
-
-
 <div align="center">
 
 # ☕ CaffioLens
@@ -161,10 +92,10 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 
 <div align="center">
 
-| 🏠 Home Dashboard | 📷 Camera Scanner | ✅ Results | 📜 History |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="180"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="180"> | <img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="180"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="180"> |
-| Real-time stats, recent scans, and quick navigation | Live camera preview with instant capture | AI classification results with confidence scores | Complete scan history with Firebase sync |
+| 🏠 Home | 📷 Scanner | 🖼️ Gallery | ✅ Results | 📜 History |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="150"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="150"> | <img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="150"> | <img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="150"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="150"> |
+| Real-time stats & activity | Live preview & instant capture | Pick from device library | AI accuracy & details | Cloud-synced scan log |
 
 </div>
 
@@ -195,8 +126,23 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 **Key Functions:**
 - 📸 Live camera viewfinder with auto-focus
 - 🎯 One-tap capture button
-- 🖼️ Quick access to gallery picker
+- � Instant processing for identified items
 - 🧭 Persistent bottom navigation
+
+</details>
+
+<details>
+<summary><b>🖼️ Gallery Selection</b></summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="250">
+
+**Key Functions:**
+- 📁 Access device photo library
+- 🔍 Analyze previously captured coffee packs
+- 🤖 Same AI accuracy as live scanning
+- ⚡ Quick processing of stationary images
 
 </details>
 
@@ -205,17 +151,11 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 
 <br>
 
-<table>
-<tr>
-<td><img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="200"></td>
-<td><img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="200"></td>
-</tr>
-</table>
+<img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="250">
 
 **Key Functions:**
 - 🎯 AI-powered coffee type identification
 - 📈 Confidence score percentage (0-100%)
-- 🖼️ Image preview of scanned pack
 - 🕒 Timestamp of scan
 - 💾 Automatic save to Firebase
 - 🔄 Quick "Scan Again" action
