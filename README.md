@@ -155,10 +155,12 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/27d44ba5-8ba7-4011-bd57-1fffa8cafe6b" width="200"><br><p align="center"><b>Probability Graph</b></p></td>
-<td><img src="https://github.com/user-attachments/assets/d1f87351-35c4-464d-94d6-3d5a283c48c6" width="200"><br><p align="center"><b>Detailed Predictions</b></p></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/27d44ba5-8ba7-4011-bd57-1fffa8cafe6b" width="200"><br><b>Probability Graph</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/d1f87351-35c4-464d-94d6-3d5a283c48c6" width="200"><br><b>Connected Prediction Details</b></td>
 </tr>
 </table>
+
+*Note: The detailed predictions list is directly connected to the scan example and probability graph above.*
 
 **Key Functions:**
 - 📊 **Probability Visualization** - Interactive graph showing identification results
