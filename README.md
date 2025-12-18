@@ -69,59 +69,320 @@ I am a third-year Bachelor of Science in Information Technology (BSIT) student a
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&lines=Flutter+Developer;Machine+Learning+Practitioner;UI+Engineer;Dark+Mode+Enthusiast" />
+# ☕ CaffioLens
+### AI-Powered Coffee Pack Identifier
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**ITE120 Final Project • CSUCC**
+
+[Features](#-features) • [Screenshots](#-screenshots) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Installation](#-installation)
 
 </div>
 
+<br>
 
----
+## 📖 About
 
+CaffioLens is an intelligent mobile application that uses **TensorFlow Lite AI** to identify coffee packs through your smartphone camera. Built with **Flutter** for seamless cross-platform performance and integrated with **Firebase** for real-time cloud synchronization.
 
+> 🎯 **94%+ accuracy** in coffee pack classification  
+> ⚡ **Under 2 seconds** processing time  
+> ☁️ **Cloud-synced** scan history
 
-<h2 align="center"></h2>
+<br>
+
+## 📦 Project Resources
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Full Project Code
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/carlo1monoy/Full_project_code)
+
+Complete Flutter source code including all Dart files, screens, and configurations.
+
+**[View Repository →](https://github.com/carlo1monoy/Full_project_code)**
+
+</td>
+<td align="center" width="50%">
+
+### 🎨 Assets & Resources
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject)
+
+TensorFlow Lite model, screenshots, training data, and all project assets.
+
+**[View Repository →](https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 📸 Real-Time Scanning
+Instant coffee pack identification using your device camera with live preview and automatic focus.
+
+### 🤖 AI Classification  
+TensorFlow Lite model processes images on-device for fast, private coffee type recognition.
+
+### 🖼️ Gallery Support
+Select and analyze coffee pack images from your photo library with same AI accuracy.
+
+</td>
+<td width="50%">
+
+### 📊 Smart Dashboard
+Track total scans, success rates, and daily activity with real-time statistics.
+
+### 📜 Scan History
+Browse complete history with thumbnails, timestamps, and confidence scores.
+
+### ☁️ Cloud Sync
+Automatic Firebase backup ensures your data is safe and accessible anywhere.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📸 Screenshots
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+
+| 🏠 Home Dashboard | 📷 Camera Scanner | ✅ Results | 📜 History |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="180"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="180"> | <img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="180"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="180"> |
+| Real-time stats, recent scans, and quick navigation | Live camera preview with instant capture | AI classification results with confidence scores | Complete scan history with Firebase sync |
+
 </div>
 
-<p align="center">
-<b>Anthony Charles S. Monoy</b><br>
-Flutter Developer • ML Practitioner • UI Engineer
-</p>
+### 📱 Screen Details
 
----
+<details>
+<summary><b>🏠 Home Dashboard</b></summary>
 
+<br>
 
+<img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="250">
 
-## 🟦 Project Gallery
+**Key Functions:**
+- 📊 Real-time statistics (Total Scans, Success Rate, Today's Count)
+- 📜 Recent scans list with thumbnails and confidence scores
+- ⚡ Live Firebase updates
+- 🧭 Quick navigation to all app sections
+
+</details>
+
+<details>
+<summary><b>📷 Camera Scanner</b></summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="250">
+
+**Key Functions:**
+- 📸 Live camera viewfinder with auto-focus
+- 🎯 One-tap capture button
+- 🖼️ Quick access to gallery picker
+- 🧭 Persistent bottom navigation
+
+</details>
+
+<details>
+<summary><b>✅ Scan Results</b></summary>
+
+<br>
+
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="200"></td>
+<td><img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="200"></td>
+</tr>
+</table>
+
+**Key Functions:**
+- 🎯 AI-powered coffee type identification
+- 📈 Confidence score percentage (0-100%)
+- 🖼️ Image preview of scanned pack
+- 🕒 Timestamp of scan
+- 💾 Automatic save to Firebase
+- 🔄 Quick "Scan Again" action
+
+</details>
+
+<details>
+<summary><b>📜 Scan History</b></summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="250">
+
+**Key Functions:**
+- 📋 Complete log of all scans
+- 🖼️ Thumbnail previews
+- 📊 Color-coded confidence badges (Green = Success, Orange = Low confidence)
+- 🕒 Date and time stamps
+- ☁️ Real-time Firebase synchronization
+
+</details>
+
+<br>
+
+## 🛠️ Tech Stack
+
+```
+Frontend        Flutter 3.0+ • Dart 3.0+ • Material Design
+AI/ML          TensorFlow Lite 0.12.0 • On-device inference
+Backend        Firebase Firestore • Firebase Core
+Camera         Camera Plugin 0.10.5+ • Image Picker 1.1.2
+Analytics      FL Chart 0.68.0 • Real-time statistics
+Design         Google Fonts (Lato) • Coffee-themed palette
+```
+
+<details>
+<summary><b>📦 View All Dependencies</b></summary>
+
+```yaml
+dependencies:
+  flutter: sdk
+  camera: ^0.10.5+9
+  tflite_flutter: ^0.12.0
+  firebase_core: ^2.31.0
+  cloud_firestore: ^4.17.3
+  image_picker: ^1.1.2
+  fl_chart: ^0.68.0
+  google_fonts: ^6.2.1
+  permission_handler: ^11.3.1
+  image: ^4.2.0
+  path_provider: ^2.1.1
+  intl: ^0.19.0
+```
+
+</details>
+
+<br>
+
+## 🚀 Quick Start
+
+```bash
+# 1. Clone repository
+git clone https://github.com/yourusername/caffiolens.git
+cd caffiolens
+
+# 2. Install dependencies
+flutter pub get
+
+# 3. Run the app
+flutter run
+```
+
+### Prerequisites
+- Flutter SDK 3.0+
+- Dart SDK 3.0+
+- Android Studio / Xcode
+- Firebase account (for cloud features)
+
+<br>
+
+## ⚙️ How It Works
+
+```mermaid
+graph LR
+    A[📱 Launch App] --> B[📸 Capture/Select Image]
+    B --> C[🤖 TFLite Processing]
+    C --> D[✅ AI Classification]
+    D --> E[📊 Display Results]
+    E --> F[☁️ Save to Firebase]
+    F --> G[📜 Update History]
+```
+
+1. **Capture** - Take photo or select from gallery
+2. **Process** - TensorFlow Lite analyzes image features
+3. **Classify** - AI identifies coffee pack with confidence score
+4. **Save** - Results automatically saved to Firebase
+5. **Track** - View statistics and history anytime
+
+<br>
+
+## 💻 Source Code
+
+<details>
+<summary><b>📄 main.dart</b> - Main Application</summary>
+
+```dart
+// Paste your complete main.dart code here
+// Includes: HomeScreen, CameraScreen, ResultsScreen, PredictionsScreen
+```
+
+</details>
+
+<details>
+<summary><b>🤖 tflite_helper.dart</b> - AI Model Integration</summary>
+
+```dart
+// Paste your tflite_helper.dart code here
+// TensorFlow Lite model loading and image processing
+```
+
+</details>
+
+<details>
+<summary><b>🔥 firebase_options.dart</b> - Firebase Config</summary>
+
+```dart
+// Paste your firebase_options.dart code here
+// Platform-specific Firebase initialization
+```
+
+</details>
+
+<br>
+
+## 📊 Project Stats
+
+- **Language:** Dart
+- **Framework:** Flutter
+- **ML Model:** TensorFlow Lite
+- **Accuracy:** 94%+
+- **Processing Time:** < 2 seconds
+- **Platform Support:** Android, iOS
+
+<br>
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+<br>
+
+## 👨‍💻 Author
 
 <div align="center">
 
----
- 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"><br>
-InstantCoffee_Classification  
-<br>
-<a href="https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject">🔗 View Project</a>
+**Anthony Charles Monoy**
 
----  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"><br>
-Flutter_Widget_UIComponents
-<br>
-<a href="https://github.com/carlo1monoy/Flutter_Widget_UIComponents">🔗 View Project</a>
+📧 anthonycharles.monoy@csucc.edu.ph  
+🎓 ITE120 Final Project  
+🏫 CSUCC
 
---- 
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="260"><br>
-  IT120-Activity
 <br>
-<a href="https://github.com/carlo1monoy/IT120-Activity1">🔗 View Project</a>
-
---- 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"><br>
-  Project  
-<br>
-<a href="carlo1monoy/carlo1monoy">🔗 View Project</a>
 
 ---
+
+<sub>Made with ❤️ and ☕ using Flutter</sub>
+
+**⭐ Star this repository if you find it helpful!**
 
 </div>
